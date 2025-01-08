@@ -1,0 +1,11 @@
+fpdf==1.7.2
+genanki==0.13.1
+Pillow==11.1.0
+protobuf==5.29.2
+pypdf==5.1.0
+pytesseract==0.3.13
+python-docx==1.1.2
+requests==2.32.3
+setuptools==65.5.0
+tqdm==4.67.1
+google-generativeai==0.8.3
