@@ -4,6 +4,9 @@ This is a completely **free** and open-source application developed with **Pytho
 
 [Video Demo](https://www.instagram.com/reel/DElUkK8sQzU/) <!-- masked video link -->
 
+**API KEY:**
+Fisrt of all follow this guide to get API key from google Gemini : https://ai.google.dev/gemini-api/docs/api-key
+
 **Installation:**
 
 To use the Ai-Anki-Generator:
