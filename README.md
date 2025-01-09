@@ -1,4 +1,4 @@
-# Ai-Anki-Generator: Your Free AI-Powered Anki Flashcard Creation Tool
+# Ai-Anki-Generator: Your Free AI-Powered Anki Flashcard Creation Tool 🚀🚀🧠
 
 This is a completely **free** and open-source application developed with **Python**, designed to use the power of **AI** to automate the creation of **Anki** flashcards. Instead of manually crafting each card, this tool can generate them based on provided text, making studying more efficient and less time-consuming.
 
