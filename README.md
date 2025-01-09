@@ -1,17 +1,22 @@
-# Ai-Anki-Generator
-This is completey #free app based on #python to se #Ai to generate #Anki Flashcards 
+# Ai-Anki-Generator: Your Free AI-Powered Anki Flashcard Creation Tool
 
-https://www.instagram.com/reel/DElUkK8sQzU/
+This is a completely **free** and open-source application developed with **Python**, designed to use the power of **AI** to automate the creation of **Anki** flashcards. Instead of manually crafting each card, this tool can generate them based on provided text, making studying more efficient and less time-consuming.
 
-installation guide :
-Download all the files in here : https://github.com/x-cod3r/Ai-Anki-Generator
+[Video Demo](https://www.instagram.com/reel/DElUkK8sQzU/) <!-- masked video link -->
 
-put them wherever you want 
+**Installation:**
 
-install python 3.11.9 from here https://www.python.org/downloads/release/python-3119/
-open terminal in the same destination and run 
-pip install -r requirements.txt
+To use the Ai-Anki-Generator:
 
-for a ready to run executable download from here : 
+1.  **Download Files:** Obtain all necessary files from the GitHub repository: [https://github.com/x-cod3r/Ai-Anki-Generator](https://github.com/x-cod3r/Ai-Anki-Generator)
+2.  **Directory Setup:** Place the downloaded files into a folder on your computer where you'd like to work from.
+3.  **Python Installation:** Ensure you have Python 3.11.9 installed. If not, download it from: [https://www.python.org/downloads/release/python-3119/](https://www.python.org/downloads/release/python-3119/)
+4.  **Dependency Installation:** Open a terminal or command prompt, navigate to the directory where you saved the files, and run this command: `pip install -r requirements.txt`. This will install all the necessary Python libraries.
 
+**Ready-to-Use Executable:**
+For those who prefer a ready-to-run version, an executable file is available on Telegram: [https://t.me/c/1978038466/67](https://t.me/c/1978038466/67). Please note that using the executable removes the need for the manual installation steps described above
 
+**How it works:**
+This tool uses AI models to read given text (e.g., a paragraph from a textbook) and creates relevant question/answer pairs, these pairs are used to generate the Anki flashcards. This is done based on a prompt to an external AI API.
+
+**Tags:** `#python #ai #anki #flashcards #free #opensource #automation #educational #learning #tool`
