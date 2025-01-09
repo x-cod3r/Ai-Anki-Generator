@@ -17,7 +17,7 @@ To use the Ai-Anki-Generator:
 4.  **Dependency Installation:** Open a terminal or command prompt, navigate to the directory where you saved the files, and run this command: `pip install -r requirements.txt`. This will install all the necessary Python libraries.
 
 **Ready-to-Use Executable:**
-For those who prefer a ready-to-run version, an executable file is available on Telegram: [https://t.me/c/1978038466/67](https://t.me/c/1978038466/67). Please note that using the executable removes the need for the manual installation steps described above
+For those who prefer a ready-to-run version, an executable file is available on Telegram: [https://t.me/c//67](here). Please note that using the executable removes the need for the manual installation steps described above
 
 **How it works:**
 This tool uses AI models to read given text (e.g., a paragraph from a textbook) and creates relevant question/answer pairs, these pairs are used to generate the Anki flashcards. This is done based on a prompt to an external AI API.
