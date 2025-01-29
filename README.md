@@ -15,6 +15,7 @@ To use the Ai-Anki-Generator:
 2.  **Directory Setup:** Place the downloaded files into a folder on your computer where you'd like to work from.
 3.  **Python Installation:** Ensure you have Python 3.11.9 installed. If not, download it from: [https://www.python.org/downloads/release/python-3119/](https://www.python.org/downloads/release/python-3119/)
 4.  **Dependency Installation:** Open a terminal or command prompt, navigate to the directory where you saved the files, and run this command: `pip install -r requirements.txt`. This will install all the necessary Python libraries.
+5.  **Destination Path:** The decks you create are saved to C:\Users\<Your user name>\Documents\AnkiDecks
 
 **Ready-to-Use Executable:**
 For those who prefer a ready-to-run version, an executable file is available on Telegram: [https://t.me/AiAnkiGenerator](https://t.me/AiAnkiGenerator). Please note that using the executable removes the need for the manual installation steps described above
