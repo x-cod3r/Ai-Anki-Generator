@@ -1,3 +1,5 @@
+
+
 # Ai-Anki-Generator: Your Free AI-Powered Anki Flashcard Creation Tool 🚀🚀🧠
 
 This is a completely **free** and open-source application developed with **Python**, designed to use the power of **AI** to automate the creation of **Anki** flashcards. Instead of manually crafting each card, this tool can generate them based on provided text, making studying more efficient and less time-consuming.
@@ -16,6 +18,7 @@ To use the Ai-Anki-Generator:
 3.  **Python Installation:** Ensure you have Python 3.11.9 installed. If not, download it from: [https://www.python.org/downloads/release/python-3119/](https://www.python.org/downloads/release/python-3119/)
 4.  **Dependency Installation:** Open a terminal or command prompt, navigate to the directory where you saved the files, and run this command: `pip install -r requirements.txt`. This will install all the necessary Python libraries.
 5.  **Destination Path:** The decks you create are saved to C:\Users\<Your user name>\Documents\AnkiDecks
+6.  **Run the App:** Open a terminal or command prompt in the project folder and run: `python gui.py`.
 
 **Ready-to-Use Executable:**
 For those who prefer a ready-to-run version, an executable file is available on Telegram: [https://t.me/AiAnkiGenerator](https://t.me/AiAnkiGenerator). Please note that using the executable removes the need for the manual installation steps described above
